@@ -1,0 +1,21 @@
+{
+  "name": "newangular",
+  "description": "it is an my own purpose",
+  "main": "",
+  "keywords": [
+    "111"
+  ],
+  "authors": [
+    "bharathi"
+  ],
+  "license": "111",
+  "homepage": "file",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
